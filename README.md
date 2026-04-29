@@ -24,7 +24,7 @@ I focus on building real-world systems rather than just learning theory. My work
 
 🚀 What I care about
 
-I value building things that work in real-world conditions — not just models that perform well on paper.
+I value building things that work in real-world conditions, not just models that perform well on paper.
 I’m especially interested in systems where decisions, constraints, and trade-offs matter.
 
 ---
