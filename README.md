@@ -31,4 +31,9 @@ I’m especially interested in systems where decisions, constraints, and trade-o
 
 ⚡ Fun fact
 
-I enjoy breaking down complex problems into structured systems and actually building them.
+I enjoy turning messy real-world problems into structured systems and actually building them.
+
+---
+
+Built a simulation-based hospital triage environment to model decision-making under constraints.
+https://github.com/meettomar07/hospital_triage_env
