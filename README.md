@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**meettomar07/meettomar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Meet Tomar, a first-year B.S. student in Applied AI & Data Science at IIT Jodhpur.
 
-Here are some ideas to get you started:
+I focus on building real-world systems rather than just learning theory. My work revolves around applying AI/ML to practical problems, especially where decision-making, constraints, and system design come into play.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building: AI/ML systems and simulation-based projects (like a hospital triage decision environment)
+- 🌱 Currently learning: Reinforcement Learning, system design, and applied machine learning
+- 🧠 Interests: Decision systems, simulation modeling, optimization, and real-world AI applications
+- 🤝 Open to collaborate on: AI/ML projects, hackathons, and system-focused builds
+- 💬 Ask me about: Python, data analysis, ML basics, or building structured projects from scratch
+- 📫 Reach me at: meettomar07@gmail.com
+
+---
+
+⚙️ Tech Stack
+
+- Python, SQL
+- FastAPI
+- Data Analysis & Visualization
+- Machine Learning (basics + applied)
+
+---
+
+🚀 What I care about
+
+I value building things that work in real-world conditions — not just models that perform well on paper.
+I’m especially interested in systems where decisions, constraints, and trade-offs matter.
+
+---
+
+⚡ Fun fact
+
+I enjoy breaking down complex problems into structured systems and actually building them.
